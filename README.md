@@ -1,1 +1,1 @@
-# FaceBook-auto-login-and-auto-scrolling-Bot-
+# FaceBook-auto-login-and-auto-scrolling-Bot
